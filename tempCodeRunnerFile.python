@@ -1,0 +1,3 @@
+print("hi")
+s=input(print("enter s"))
+print("this is s"+s)
